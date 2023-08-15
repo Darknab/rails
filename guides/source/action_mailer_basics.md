@@ -180,7 +180,7 @@ Setting this up is simple.
 First, let's create a `User` scaffold:
 
 ```bash
-$ bin/rails generate scaffold user name email login
+$ bin/rails generate scaffold User name email login
 $ bin/rails db:migrate
 ```
 
